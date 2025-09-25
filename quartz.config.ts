@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "jamestsatsaronis.github.io/Me/",
+    baseUrl: "http://jamestsatsaronis.github.io/DigitalGarden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
